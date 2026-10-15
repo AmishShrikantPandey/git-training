@@ -1,0 +1,19 @@
+TEAM LUNCH ORDER
+Date: TBD
+Organizer: TBD
+Restaurant: TBD
+Budget per person: 0
+Headcount: 0
+Pickup time: 12:00
+Status: DRAFT
+Version: 1
+Last edited by: nobody
+Menu:
+1. Starter: TBD
+2. Main: TBD
+3. Side: TBD
+4. Dessert: TBD
+5. Drink: TBD
+Attendees:
+- (add yourself here)
+Notes: none
